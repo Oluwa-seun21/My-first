@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(183, 218, 240);
+}
+
+#big1{
+    position: absolute;
+    left: 60px;
+}
+img{
+    height: 600px;
+    width: 600px;
+    margin-left: 25px;
+    /* margin-left: 50px; */
+}
+#big2{
+    position: absolute;
+    right: 0;
+    background-color:rgb(235, 240, 243);
+    width: 600px;
+    height: 700px;
+    margin-top: -6px;
+}
+form{
+    padding-left: 120px;
+}
+h2{
+    padding-left: 90px;
+    margin: 30px;
+    font-size: 32px;
+}
+h2 img{
+    width: 50px;
+    height: 45px;
+}
+.form2 h4{
+font-size: 25px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: blue;
+}
+h5{
+    font-size: large;
+    /* padding-bottom: -80px; */
+    margin-top: -40px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+label{
+    font-size: small;
+    color: rgb(131, 192, 245);
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    width: 320px;
+    border-color: white;
+    border-style: none;
+    
+}
+placeholder{
+    color: rgb(153, 154, 155);
+    font-size:smaller;
+}
+.forgot a{
+    padding-left:230px ;
+    text-decoration: none;
+    color: blue;
+    font-size:medium;
+    margin-bottom: 120px;
+}
+#password{
+    margin-bottom: 8px;
+}
+button{
+    padding: 9px;
+    width: 340px;
+    background-color: blue;
+    color: white;
+    border-color: white;
+    border-style: none;
+    margin-bottom: 4px;
+}
+.submit2{
+    margin-bottom: 50px;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.create a{
+    color: black;
+}
+
+
+
